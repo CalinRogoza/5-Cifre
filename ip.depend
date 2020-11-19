@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1546854265 source:c:\users\calin\desktop\new folder\ip\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<conio.h>
+	<cwchar>
+	<windows.h>
+	<time.h>
+
+1547574380 source:c:\users\calin\desktop\ip\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<conio.h>
+	<cwchar>
+	<windows.h>
+	<time.h>
+
